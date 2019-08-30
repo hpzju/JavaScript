@@ -1,2 +1,14 @@
 # JavaScript-
-Learning JS and Web FullStack
+## JS Core Language
+- Basic
+- DOM
+- Web
+- Libs
+
+## Web Frameworks FE/BE
+- Node.js
+- Vue
+- React
+- Electron
+
+## Aplication
